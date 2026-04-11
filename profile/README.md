@@ -4,8 +4,8 @@ Project Sinon is an open source initiative focused on rethinking the Linux deskt
 
 ## Projects
 
-**Sinon Linux** — A security and developer focused fork of Devuan with NixOS intergration
-**Polarity** — Bare metal dual OS switching without virtualization
+**Sinon Linux** — A security and developer focused fork of Devuan with NixOS intergration <br>
+**Polarity** — Bare metal dual OS switching without virtualization <br>
 **Hecate** — The microkernel powering Polarity
 
 ## License
