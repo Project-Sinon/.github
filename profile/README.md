@@ -1,6 +1,6 @@
-# Project Sinon
+# Project Koda
 
-Project Sinon is an open source initiative focused on rethinking the operating system experience from the ground up.
+Project Koda is an open source initiative focused on rethinking the operating system experience from the ground up.
 
 ## Projects
 
